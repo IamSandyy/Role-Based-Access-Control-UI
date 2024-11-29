@@ -33,8 +33,7 @@ Prerequisites
 Node.js and npm installed on your system. You can download Node.js from here.
 A text editor or IDE like VSCode or Sublime Text.
 Steps to Set Up the Project
-Clone the repository:
-git clone https://github.com/your-username/rbac-ui.git
+
 Navigate to the project directory:
 cd rbac-ui
 Install the required dependencies:
@@ -44,20 +43,6 @@ Start the development server:
 npm start
 Open your browser and go to http://localhost:3000 to view the app.
 
-File Structure
-rbac-ui/
-│
-├── public/
-│   ├── index.html         # Main HTML file
-│   └── ...
-├── src/
-│   ├── components/
-│   │   ├── UserList.js    # Component for managing users
-│   │   ├── RoleList.js    # Component for managing roles
-│   └── App.js             # Main app component
-│
-├── package.json           # Project dependencies and scripts
-└── README.md              # Project documentation
 How to Use
 _User Management:_
 
